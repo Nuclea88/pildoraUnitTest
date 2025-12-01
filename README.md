@@ -1,3 +1,3 @@
 # pildoraUnitTest
 Archivos iniciales para la presentación de la píldora de unit test
-Este repositorio cuenta ocn los archivos básicos para poder haceru na prueba sencilla con Vitest (incluye el git.ignore para Node.js)
+Este repositorio cuenta con los archivos básicos para poder hacer una prueba sencilla con Vitest (incluye el .gitignore para Node.js)
